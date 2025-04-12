@@ -19,9 +19,5 @@ my_list.pop(5)
 my_list.sort()
 my_list.reverse()
 my_list.clear()
-# Find and print the index of the value 4 in the list
-print("Index of 4:", my_list.index(4) if 4 in my_list else "Not found")
-# and prints the final list.
-# It also demonstrates the use of the index method to find the position of a specific value.
-# The script is a simple demonstration of list operations in Python.                                    
+print(my_list)                                    
 
